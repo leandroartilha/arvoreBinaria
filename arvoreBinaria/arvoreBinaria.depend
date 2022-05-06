@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1458672927 source:c:\users\angelot\desktop\aulas 1º semestre 2016\ed2d3\aulas\aula 07 - Árvores\material de apoio\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1458672927 c:\users\angelot\desktop\aulas 1º semestre 2016\ed2d3\aulas\aula 07 - Árvores\material de apoio\arvorebinaria\arvorebinaria.h
+
+1458667589 source:c:\users\angelot\desktop\aulas 1º semestre 2016\ed2d3\aulas\aula 07 - Árvores\material de apoio\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1458672927 source:c:\users\angelot\desktop\aulas 1º semestre 2016\ed2d3\aulas\aula 07 - Árvores binárias de busca\material de apoio\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1458672927 c:\users\angelot\desktop\aulas 1º semestre 2016\ed2d3\aulas\aula 07 - Árvores binárias de busca\material de apoio\arvorebinaria\arvorebinaria.h
+
+1458680803 source:c:\users\angelot\desktop\aulas 1º semestre 2016\ed2d3\aulas\aula 07 - Árvores binárias de busca\material de apoio\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1458672927 source:c:\users\angelot\desktop\aulas 2º semestre 2016\ed2d3\aulas\aula 04 - Árvores binárias de busca\material de apoio\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1458672927 c:\users\angelot\desktop\aulas 2º semestre 2016\ed2d3\aulas\aula 04 - Árvores binárias de busca\material de apoio\arvorebinaria\arvorebinaria.h
+
+1458680803 source:c:\users\angelot\desktop\aulas 2º semestre 2016\ed2d3\aulas\aula 04 - Árvores binárias de busca\material de apoio\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1458672927 source:d:\aulas 1º semestre 2017\ed2d3\aulas\aula 04 - Árvores binárias de busca\material de apoio\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1458672927 d:\aulas 1º semestre 2017\ed2d3\aulas\aula 04 - Árvores binárias de busca\material de apoio\arvorebinaria\arvorebinaria.h
+
+1458680803 source:d:\aulas 1º semestre 2017\ed2d3\aulas\aula 04 - Árvores binárias de busca\material de apoio\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1458676527 source:c:\users\angelot\documents\aulas 2º semestre 2017\ed2d3\aulas\aula 04 - Árvores binárias de busca\material de apoio\arvorebinaria\arvorebinaria.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1458676527 c:\users\angelot\documents\aulas 2º semestre 2017\ed2d3\aulas\aula 04 - Árvores binárias de busca\material de apoio\arvorebinaria\arvorebinaria.h
+
+1458684403 source:c:\users\angelot\documents\aulas 2º semestre 2017\ed2d3\aulas\aula 04 - Árvores binárias de busca\material de apoio\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1651879755 source:c:\users\aluno\downloads\arvorebinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arvoreBinaria.h"
+
+1651879552 c:\users\aluno\downloads\arvorebinaria\arvorebinaria.h
+
